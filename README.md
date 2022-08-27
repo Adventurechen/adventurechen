@@ -5,8 +5,8 @@ Hello, I'm ✨ Adventurechen ✨. I am a **freelance coder** from germany. I mai
 # 🔒 | Projects
 My **current** projects:
 
-- Reaaaa
-	+ aaaa
+- Discord-Bots
+	+ Atlas V1
 
 
 <!--### Hi there 👋
