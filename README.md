@@ -1,6 +1,6 @@
 # 🎨 | About Adventurechen
 
-Hello, I'm ✨ _Adventurechen_ ✨. I am a **freelance coder** from germany. I mainly code **discord bots** and **websites**.
+Hello, I'm ✨ Adventurechen ✨. I am a **freelance coder** from germany. I mainly code **discord bots** and **websites**.
 
 # 🔒 | Projects
 My **current** projects:
