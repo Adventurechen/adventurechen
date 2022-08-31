@@ -5,7 +5,7 @@ Hello, I'm ✨ Adventurechen ✨. I am a **freelance coder** from germany. I mai
 # 🔒 | Projects
 My **current** projects:
 
-- Nothing
+- **Nothing here** ._.
 
 
 <!--### Hi there 👋
